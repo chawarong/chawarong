@@ -2,7 +2,9 @@
 
 Checkout my https://codingugly.com if you want to see my blog, speaking events I've done and more!
 
-- I'm currently working at OKKAMI, Inc.
+- I'm currently a Sr. Director, Product Develoopment at at OKKAMI, Inc.
+- I help developers 👨🏻‍💻 reskill to technical leadership 💪
+- Ask me about product development, design thinking, agile, software engineering, antipattern, tools and techniques
 - How you can reach me: 📫 chawarong.songserm@colorado.edu
 
 <!--
