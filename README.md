@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey there, I'm Chawarong! 👋
+
+Checkout my https://codingugly.com if you want to see my blog, speaking events I've done and more!
+
+- I'm currently working at OKKAMI, Inc.
+- How you can reach me: 📫 chawarong.songserm@colorado.edu
 
 <!--
 **chawarong/chawarong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
